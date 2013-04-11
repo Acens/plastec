@@ -11,7 +11,7 @@
 	</div>
 	<!-- Footer Widgets Done -->
 	<div id="footer">
-		<p id="copyright"> <a href="http://www.acens.com.br/"><img style="margin-bottom:-11px;" src="http://www.acens.com.br/blog/wp-content/uploads/Logo%20Acens%20Transparente.png" alt="logo"></a> <?php esc_html_e('©2012 Todos os Direitos Reservados.','Aggregate'); ?> <a href="http://www.acens.com.br" > Acens - Mentes em Desenvolvimento. | 8585-6463</a> </p>
+		<p id="copyright"> <a href="http://www.acens.com.br/"><img style="margin-bottom:-11px;" src="http://localhost/plastec/wp-content/themes/Polished/images/acen.png" alt="logo"></a> </p>
 			</div> <!-- end .container -->
 	</div>
 </div>
